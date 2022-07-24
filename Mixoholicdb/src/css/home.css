@@ -1,0 +1,44 @@
+.drink-card {
+  width: 20em;
+  max-width: 90vw;
+  padding: 2em;
+  margin: 2em;
+}
+
+.drink-img {
+  border-radius: 0.5em;
+}
+
+.card-bodyul > li {
+  list-style-type: none;
+}
+
+body {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+main {
+  margin: 4em;
+}
+
+@media only screen and (min-width: 80em) {
+  .card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .drink-card {
+    height: fit-content;
+  }
+}
+
+/*# sourceMappingURL=home.css.map */

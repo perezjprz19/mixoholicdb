@@ -1,0 +1,27 @@
+.drink-card {
+    width:20em;
+    max-width: 90vw;
+    padding: 2em;
+    margin-bottom: 2em;
+    height: 50em;
+
+}
+
+.drink-img {
+    border-radius: 0.5em;
+
+}
+
+.card-body {
+    ul>li {
+        list-style-type: none;
+    }
+}
+
+
+@media only screen and (min-width: 80em) {
+     .drink-card{
+        width: 30em;
+     }
+   
+   }
