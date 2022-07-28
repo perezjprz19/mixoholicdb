@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/perezjprz19/static/css/main.eb18f349.css",
+    "main.js": "/perezjprz19/static/js/main.e38e10f0.js",
+    "index.html": "/perezjprz19/index.html",
+    "main.eb18f349.css.map": "/perezjprz19/static/css/main.eb18f349.css.map",
+    "main.e38e10f0.js.map": "/perezjprz19/static/js/main.e38e10f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb18f349.css",
+    "static/js/main.e38e10f0.js"
+  ]
+}
