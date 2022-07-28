@@ -1,8 +1,8 @@
 {
+  "homepage": "https://github.com/perezjprz19/mixoholicdb",
   "name": "mixoholicdb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/perezjprz19",
   "dependencies": {
     "-": "^0.0.1",
     "@splidejs/react-splide": "^0.7.8",
@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "development -d build",
+    "deploy": "gh-pages -d build",
     "watch-sass": "sass --watch ./src/Styles:./src/css"
   },
   "eslintConfig": {
