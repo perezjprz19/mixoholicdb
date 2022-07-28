@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/perezjprz19/mixoholicdb/static/css/main.eb18f349.css",
-    "main.js": "/perezjprz19/mixoholicdb/static/js/main.366af2ef.js",
+    "main.js": "/perezjprz19/mixoholicdb/static/js/main.87b54d8f.js",
     "index.html": "/perezjprz19/mixoholicdb/index.html",
     "main.eb18f349.css.map": "/perezjprz19/mixoholicdb/static/css/main.eb18f349.css.map",
-    "main.366af2ef.js.map": "/perezjprz19/mixoholicdb/static/js/main.366af2ef.js.map"
+    "main.87b54d8f.js.map": "/perezjprz19/mixoholicdb/static/js/main.87b54d8f.js.map"
   },
   "entrypoints": [
     "static/css/main.eb18f349.css",
-    "static/js/main.366af2ef.js"
+    "static/js/main.87b54d8f.js"
   ]
 }
